@@ -62,7 +62,7 @@ function getWinner(playerMove,computerMove) {
 		    winner = "Computer";
 	    }
     } 
-console.log(winner);
+return winner;
 
 }
 //getWinner(getPlayerMove(),getComputerMove());
